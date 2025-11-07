@@ -4,4 +4,4 @@ customer_id,name,email,age,registration_date
 3,Bob Johnson,bob.j@example.com,42,2023-03-10
 4,Alice Williams,alice.w@example.com,29,2023-04-05
 5,Charlie Brown,charlie.b@example.com,31,2023-05-12
-5,Charlie ,charlie.b,31,2023-05-12
+5,Charlie ,charlie.b@example.com,31,2023-05-12
