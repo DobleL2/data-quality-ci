@@ -28,3 +28,5 @@ def validate_customers(file_path: str) -> bool:
     customer_schema.validate(df)
     return True
 
+def sum(x,y):
+    return x+y
